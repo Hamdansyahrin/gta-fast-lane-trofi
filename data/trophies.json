@@ -1,0 +1,885 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "55 trofi resmi, seperti tercantum di Exophase dan PSNProfiles; nama, deskripsi, dan grade ditampilkan persis seperti diterbitkan.",
+ "note": "Panduan ditulis dengan kata-kata kami sendiri dalam Bahasa Indonesia. Setiap panduan menyebut sumbernya; di mana belum ada panduan yang mengonfirmasi caranya, panduan mengatakannya dengan jujur alih-alih menebak.",
+ "sources": {
+  "powerpyx": {
+   "name": "PowerPyx — GTA 6 Trophy Guide & Roadmap",
+   "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
+  },
+  "powerpyx100": {
+   "name": "PowerPyx — GTA 6 100% Completion Checklist & Guide",
+   "url": "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/"
+  },
+  "gtazone": {
+   "name": "GTA Zone — GTA 6 Trophy List: All 55 Trophies and Achievements",
+   "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"
+  },
+  "outputlag": {
+   "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+   "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+  },
+  "keengamer": {
+   "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+   "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+  }
+ },
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Selamat! Kamu adalah Legenda Leonida.",
+   "grade": "platinum",
+   "kind": "completion",
+   "hidden": false,
+   "missable": false,
+   "roadmap_stage": 3,
+   "guide": "Trofi Platinum ini muncul begitu 54 trofi lainnya sudah didapat semua, jadi tidak ada tugas tersendiri yang harus dikejar — ini garis finis dari seluruh daftar. Karena trofi Gold 'A Long Road' (100% completion) termasuk salah satu dari 54 itu, Platinum praktis menunggu checklist 100% selesai. PowerPyx memberi nilai kesulitan 4/10 dan sekitar 200 jam, cukup sekali main dan tidak ada trofi online. Simpan save manual di awal setiap chapter selama bermain: tidak ada fitur replay misi.",
+   "sources": [
+    "powerpyx",
+    "gtazone"
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Selesaikan Gone Fishing.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "chapter": 1,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan misi pembuka, Gone Fishing — ini salah satu misi pertama di Chapter 1, jadi terbuka secara alami dalam satu jam pertama bermain. Ikuti saja objektif misi seperti yang diarahkan; tidak ada syarat sampingan yang memengaruhi. Trofi ini tidak bisa terlewat: misi cerita ada di jalur utama. Chapter misi ini menurut GTABase, seperti dilaporkan GTA Zone.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Selesaikan Chapter 1.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "chapter": 1,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan Chapter 1 dengan memainkan misi-misi utamanya sampai chapter berakhir; trofi muncul saat transisi chapter. Tidak ada yang opsional yang dibutuhkan, dan tidak ada tugas sampingan yang bisa menguncinya. Tapi lakukan dulu meditasi Chapter 1 untuk 'Positive Mental Attitude' sebelum chapter ditutup — tempat itu hilang begitu chapter berakhir. Sumber: panduan trofi PowerPyx; daftar trofi GTA Zone.",
+   "sources": [
+    "powerpyx",
+    "gtazone"
+   ]
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Selesaikan Chapter 2.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "chapter": 2,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan Chapter 2 dengan memainkan misi-misi utamanya sampai akhir. Di sinilah Jason dan Lucia sama-sama bisa dimainkan, yang membuka sebagian besar konten sampingan — trofi partner, tempat meditasi, dan aplikasi Scooter Bros semuanya mulai dari sini. Trofi chapter-nya sendiri tidak butuh apa-apa selain cerita. Sumber: panduan trofi PowerPyx; daftar trofi GTA Zone.",
+   "sources": [
+    "powerpyx",
+    "gtazone"
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Selesaikan Chapter 3.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "chapter": 3,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan Chapter 3 dengan memainkan misi-misi utamanya sampai akhir. Chapter 3 adalah tempat pekerjaan Yasmani terbuka — dia memberimu Snap Gun yang dipakai untuk perampokan toko perhiasan 'Sneakthief' — jadi ambil misinya begitu muncul. Trofi chapter-nya sendiri adalah progres cerita yang tidak bisa terlewat. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Selesaikan Chapter 4.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "chapter": 4,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan Chapter 4 dengan memainkan misi-misi utamanya sampai akhir. Brankas bank terbuka lewat misi opsional Chapter 4, jadi mulai perampokan brankas 'Maximum Withdrawal' begitu muncul — setiap pekerjaan brankas mendatangkan respons bintang 4, jadi siapkan motor yang cepat. Trofi chapter-nya sendiri adalah progres cerita yang tidak bisa terlewat. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Selesaikan misi terakhir.",
+   "grade": "gold",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "chapter": 5,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan misi terakhir di akhir Chapter 5. Simpan save manual sebelum misi itu: tidak ada replay misi dan tidak ada New Game Plus, jadi save adalah satu-satunya jalan kembali untuk mengulang ending. Menamatkan cerita juga membuka checklist 100% completion (Progress > Stats > 100% Completion) dan free roam untuk bersih-bersih. Sumber: panduan trofi PowerPyx; daftar trofi GTA Zone.",
+   "sources": [
+    "powerpyx",
+    "gtazone"
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Selesaikan Breakfast Run.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "chapter": 2,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan misi Breakfast Run di Chapter 2. Misi ini ada di jalur cerita, jadi terus saja mainkan misi utama secara berurutan dan misi ini akan muncul. Misi cerita tidak bisa terlewat, dan tidak ada syarat medali atau skor — menyelesaikan misinya saja sudah cukup. Chapter-nya menurut GTABase, seperti dilaporkan GTA Zone.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Selesaikan The Cartel Heist.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "chapter": 3,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan misi The Cartel Heist di Chapter 3. Ini misi cerita di jalur utama, jadi terbuka dengan memainkan misi utama secara berurutan. Tidak perlu persiapan atau tugas sampingan, dan tidak bisa terlewat. Chapter-nya menurut GTABase, seperti dilaporkan GTA Zone.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Selesaikan Child's Play.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "chapter": 4,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan misi Child's Play di Chapter 4. Ini misi cerita di jalur utama, jadi terus mainkan misi utama secara berurutan dan misi ini akan muncul. Tidak ada syarat medali atau skor — menyelesaikan misinya saja sudah cukup — dan tidak bisa terlewat. Chapter-nya menurut GTABase, seperti dilaporkan GTA Zone.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Selesaikan Headliners.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "chapter": 4,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan misi Headliners di Chapter 4. Ini misi cerita di jalur utama, jadi terbuka dengan memainkan misi utama secara berurutan. Tidak ada tugas sampingan yang memengaruhinya dan tidak bisa terlewat. Chapter-nya menurut GTABase, seperti dilaporkan GTA Zone.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Selesaikan VCIA Takedown.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "chapter": 4,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan misi VCIA Takedown di Chapter 4. Ini misi cerita di jalur utama, jadi terus mainkan misi utama secara berurutan dan misi ini akan muncul. Jangan tertukar dengan 'Catch Me If You Can', trofi dunia terbuka terpisah untuk mencuri jet di VCIA — yang ini adalah misinya sendiri. Chapter-nya menurut GTABase, seperti dilaporkan GTA Zone.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Selesaikan Operation Savage Glory.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "chapter": 5,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan misi Operation Savage Glory di Chapter 5. Ini misi cerita di jalur utama, jadi terbuka dengan memainkan misi utama secara berurutan. Tidak ada tugas sampingan yang memengaruhinya dan tidak bisa terlewat. Chapter-nya menurut GTABase, seperti dilaporkan GTA Zone.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Raih 100% Completion.",
+   "grade": "gold",
+   "kind": "completion",
+   "hidden": false,
+   "missable": false,
+   "roadmap_stage": 2,
+   "guide": "Raih 100% completion di checklist dalam game (Progress > Stats > 100% Completion), yang baru terlihat setelah cerita tamat — tapi semua yang kamu lakukan selama cerita sudah terhitung ke sana. Daftarnya berisi 35 syarat dalam tiga kelompok (cerita dan tugas, eksplorasi dan aktivitas, penemuan) dan cukup longgar: sebagian besar hanya meminta sebagian dari satu set, misalnya 200 dari 277 kendaraan yang dipindai, 100 dari 255 hewan yang dipelajari, dan 70 dari 80 challenge. Hanya segelintir yang menuntut semuanya: semua 39 operasi geng, semua 22 pekerjaan bank, semua 42 gold shooting range, semua 42 drone time trial, semua 33 penemuan bawah air, dan quest berburu Bret. Tidak ada yang missable di checklist ini — semuanya bisa diselesaikan di free roam setelah credit. Ini trofi tersulit di set ini dan porsi terbesar dari sekitar 200 jam. Sumber: panduan 100% completion PowerPyx; daftar trofi GTA Zone.",
+   "sources": [
+    "powerpyx100",
+    "powerpyx",
+    "gtazone"
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Selesaikan 250 Stunt.",
+   "grade": "silver",
+   "kind": "activity",
+   "hidden": false,
+   "missable": false,
+   "count": 250,
+   "roadmap_stage": 2,
+   "guide": "Selesaikan 250 stunt mana pun dari 397 stunt yang tersebar di Leonida. Stunt ada empat jenis: 130 stunt jump dari ramp, 202 penerbangan di bawah jembatan, 40 knife flight di antara gedung, dan 25 base jump. Checklist 100% meminta 300, jadi teruskan sampai lewat 250 kalau kamu mengejar 'A Long Road'. Kerjakan sambil bepergian antar misi — kendaraan apa pun yang bisa melompat atau terbang dihitung. Sumber: panduan 100% completion PowerPyx; daftar trofi GTA Zone.",
+   "sources": [
+    "powerpyx100",
+    "gtazone"
+   ]
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Coba setiap jenis aktivitas sekali.",
+   "grade": "bronze",
+   "kind": "activity",
+   "hidden": false,
+   "missable": false,
+   "roadmap_stage": 1,
+   "guide": "Coba masing-masing dari sembilan jenis aktivitas dalam game sekali. Aktivitasnya adalah hiburan sampingan — satu balapan, satu tantangan memancing, satu ronde shooting range, satu balapan drone, satu game arcade, bowling, meditasi, berburu, dan sisanya, semuanya dihitung sebagai jenisnya sendiri. Sebagian besar tumpang tindih dengan trofi lain, jadi kemungkinan besar trofi ini muncul saat kamu mengerjakan daftar; kalau ada jenis yang tidak jelas, cek bagian Activities di menu dalam game. Sumber: panduan trofi PowerPyx; daftar trofi GTA Zone.",
+   "sources": [
+    "powerpyx",
+    "gtazone"
+   ]
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Raih medali emas di semua tantangan Shooting Range.",
+   "grade": "silver",
+   "kind": "activity",
+   "hidden": false,
+   "missable": false,
+   "count": 42,
+   "roadmap_stage": 2,
+   "guide": "Raih medali emas di semua 42 tantangan Shooting Range di 12 arena — Griffin Shooting Range dan Rodgers Ranch adalah dua venue yang disebut. Beli dulu pass pengecualian $5 dari petugas, lalu kerjakan tantangan di setiap arena; ambang gold-nya cukup longgar dan senjatanya disediakan di tempat. 42 gold yang sama juga dibutuhkan untuk 100% completion, jadi ini tidak bisa dilewati di jalan menuju Platinum. Sumber: daftar trofi GTA Zone; panduan 100% completion PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx100"
+   ]
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Menangi balapan Top Fun Drone di setiap lokasi.",
+   "grade": "bronze",
+   "kind": "activity",
+   "hidden": false,
+   "missable": false,
+   "count": 14,
+   "roadmap_stage": 2,
+   "guide": "Menangi balapan Top Fun Drone di masing-masing dari 14 lokasi. Satu kemenangan per lokasi sudah cukup untuk trofi; checklist 100% meminta semua 42 balapan dimenangi, jadi teruslah balapan kalau kamu mengejar 'A Long Road'. Balapan drone diterbangkan dari jarak jauh — pelajari jalur setiap lintasan dulu sebelum memaksakan kemenangan, dan mengulang itu gratis. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Menangi 20 balapan yang berbeda.",
+   "grade": "bronze",
+   "kind": "activity",
+   "hidden": false,
+   "missable": false,
+   "count": 20,
+   "roadmap_stage": 2,
+   "guide": "Menangi 20 balapan berbeda dari 40 yang tersedia. Memenangi balapan yang sama dua kali tidak dihitung, jadi terus pindah ke event baru — peta menandai setiap balapan, dan kemenanganmu tercatat. Campur kelas kendaraan untuk menemukan yang paling cepat kamu kuasai, dan ulangi satu balapan bebas sampai kamu memenanginya. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Kalahkan Cal dalam tantangan memancing.",
+   "grade": "bronze",
+   "kind": "activity",
+   "hidden": false,
+   "missable": false,
+   "roadmap_stage": 1,
+   "guide": "Kalahkan Cal dalam tantangan memancing. Cal mengirimimu pesan setelah sebuah misi Chapter 1 dan menandai tempat memancing dengan ikon ungu — pergi ke sana dan ambil tantangannya. Memancing adalah minigame timing: jaga ketegangan tali tetap stabil dan gulung saat diminta, dan tantangannya dimenangi lewat tangkapan, bukan ukuran ikannya. Sumber: daftar trofi GTA Zone.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Selesaikan satu game arcade.",
+   "grade": "bronze",
+   "kind": "activity",
+   "hidden": false,
+   "missable": false,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan satu game arcade. Cari mesin arcade di dunia terbuka, mulai game apa pun dan mainkan sampai tamat — tidak peduli mesin atau game yang mana, satu penyelesaian penuh sudah cukup. Ini juga dihitung sebagai satu dari sembilan jenis aktivitas untuk 'Master of None'. Sumber: daftar trofi GTA Zone.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Selesaikan misi terakhir untuk Andy.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan misi terakhir untuk Andy. Rangkaian misi Andy terbuka selama cerita; terus ambil pekerjaannya begitu muncul di peta dan rangkaian itu berakhir dengan trofi ini. Rangkaian karakter sampingan tetap terbuka setelah cerita, jadi tidak bisa terlewat. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Selesaikan misi terakhir untuk Kenton.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan misi terakhir untuk Kenton. Rangkaian misi Kenton terbuka selama cerita; terus ambil pekerjaannya begitu muncul di peta dan rangkaian itu berakhir dengan trofi ini. Rangkaian karakter sampingan tetap terbuka setelah cerita, jadi tidak bisa terlewat. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Selesaikan misi terakhir untuk Billy.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan misi terakhir untuk Billy. Lima pekerjaannya dimulai di Thrillbilly Mudclub di Kelly County setelah sebuah misi Chapter 2, dan rangkaiannya tetap terbuka setelah cerita. Kerjakan kelima pekerjaan itu; pekerjaan terakhir memunculkan trofi. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Selesaikan 8 rangkaian misi untuk orang asing di seluruh negara bagian Leonida.",
+   "grade": "silver",
+   "kind": "activity",
+   "hidden": false,
+   "missable": false,
+   "count": 8,
+   "roadmap_stage": 2,
+   "guide": "Selesaikan 8 rangkaian misi untuk orang asing di Leonida. Tidak semua orang asing dihitung: Kirk, Kyle, Yago, dan Pilot Pete dihitung, sementara Moses, Tyrone, Yasmani, Andy, dan Billy tidak — rangkaian mereka mengarah ke trofi lain. Ikon orang asing muncul di peta saat kamu menjelajah; ambil saja begitu muncul dan trofinya mengikuti. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Selesaikan misi terakhir untuk Randy.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan misi terakhir untuk Randy. Rangkaian misi Randy terbuka selama cerita; terus ambil pekerjaannya begitu muncul di peta dan rangkaian itu berakhir dengan trofi ini. Randy juga membeli kendaraan hasil fencing — dia membayar $35.000 atau lebih untuk mobil sport dalam kondisi sempurna — yang masuk ke checklist 100%. Sumber: daftar trofi GTA Zone; panduan 100% completion PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx100"
+   ]
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Selesaikan misi terakhir untuk Tyrone.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap_stage": 1,
+   "guide": "Selesaikan misi terakhir untuk Tyrone. Rangkaian misi Tyrone terbuka selama cerita; terus ambil pekerjaannya begitu muncul di peta dan rangkaian itu berakhir dengan trofi ini. Perlu dicatat rangkaian Tyrone tidak dihitung untuk 'Strangers & Freaks' — dia punya trofinya sendiri. Rangkaian karakter sampingan tetap terbuka setelah cerita, jadi tidak bisa terlewat. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Bermeditasi di setiap tempat di Leonida.",
+   "grade": "bronze",
+   "kind": "collectible",
+   "hidden": false,
+   "missable": true,
+   "count": 18,
+   "roadmap_stage": 1,
+   "guide": "Bermeditasi di semua 18 tempat di 10 lokasi meditasi Leonida, sebagai Jason dan Lucia. Ini satu-satunya trofi yang ditandai panduan sebagai berpotensi missable: meditasi pertama Lucia, di balkon rumah Jason di Chapter 1, hilang begitu chapter itu berakhir, dan tidak ada replay misi. Lakukan begitu ditawarkan — belum terkonfirmasi apakah itu wajib, tapi penulis PowerPyx mendapat trofi ini setelah melakukannya, jadi main aman saja. Tempat-tempat terakhir butuh Jason dan Lucia bisa dimainkan bersama, yang terbuka setelah Chapter 2. Perlu dicatat checklist 100% hanya meminta 15 dari 18 tempat, jadi trofi ini satu-satunya alasan untuk menemukan semua 18. Sumber: panduan trofi PowerPyx; daftar trofi GTA Zone; daftar trofi Output Lag.",
+   "sources": [
+    "powerpyx",
+    "gtazone",
+    "outputlag"
+   ]
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Buru hewan unik untuk Bret.",
+   "grade": "bronze",
+   "kind": "activity",
+   "hidden": true,
+   "missable": false,
+   "roadmap_stage": 1,
+   "guide": "Buru hewan unik untuk Bret. Quest berburu Bret dimulai setelah Chapter 2 dan hanya untuk Jason, dan quest-nya juga termasuk salah satu dari sedikit hal yang diminta penuh oleh checklist 100%. Hewan pastinya belum terkonfirmasi oleh panduan — ambil saja quest Bret begitu datang dan trofi muncul saat perburuan unik selesai. Anggap rumor nama hewan spesifik apa pun yang kamu lihat online sampai dua panduan sepakat. Sumber: daftar trofi GTA Zone; panduan 100% completion PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx100"
+   ]
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Selesaikan 3 set Kartu Koleksi.",
+   "grade": "silver",
+   "kind": "collectible",
+   "hidden": false,
+   "missable": false,
+   "count": 3,
+   "roadmap_stage": 2,
+   "guide": "Selesaikan 3 set kartu koleksi dari 18 set dalam game. Kartu tersembunyi di sekitar Leonida; setiap set butuh semua kartunya, dan game mencatat set-setmu. Checklist 100% meminta 15 dari 18 set, jadi trofi ini datang lebih awal dalam perjalanan menuju 'A Long Road' — terus kumpulkan melewati tiga set. Sumber: daftar trofi GTA Zone; panduan 100% completion PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx100"
+   ]
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It di 100 lokasi.",
+   "grade": "silver",
+   "kind": "collectible",
+   "hidden": false,
+   "missable": false,
+   "count": 100,
+   "roadmap_stage": 2,
+   "guide": "WAiNK It di 100 lokasi. Pakai aplikasi WAiNK untuk memindai Landmark (31 total), Curiosities (35), Sculptures (23), dan tag No Flusher — campuran apa pun dihitung menuju 100. Memindai itu cepat, jadi tandai semua yang kamu lewati saat bepergian. 100 pemindaian yang sama adalah item checklist 100%. Sumber: daftar trofi GTA Zone; panduan 100% completion PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx100"
+   ]
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Selesaikan 50 Challenge.",
+   "grade": "bronze",
+   "kind": "activity",
+   "hidden": false,
+   "missable": false,
+   "count": 50,
+   "roadmap_stage": 2,
+   "guide": "Selesaikan 50 dari 80 Challenge. Challenge adalah prestasi kecil yang tersebar di pertarungan, berkendara, eksplorasi, dan bagian lain game — daftar dalam game mencatatnya. Pilih yang mudah dulu; checklist 100% meminta 70, jadi teruskan kalau kamu mengejar 'A Long Road', dan kamu boleh melewati sepuluh yang tersulit. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lepas dari Wanted Level bintang 4 bersama partnermu dan kabur dari kejaran.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "roadmap_stage": 3,
+   "guide": "Lepas dari Wanted Level bintang 4 bersama partnermu dan kabur dari kejaran. Naikkan empat bintang dengan partnermu di sampingmu — aksi kriminal di area ramai bisa melakukannya — lalu putuskan garis pandang dan tetap di luar area pencarian sampai bintang-bintangnya hilang. Mobil cepat dan daerah pedesaan membantu; trofi muncul saat wanted level benar-benar hilang. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rampok 3 toko berturut-turut bersama partnermu tanpa kehilangan Wanted Level.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "roadmap_stage": 3,
+   "guide": "Rampok 3 toko berturut-turut bersama partnermu tanpa kehilangan Wanted Level. Rampok tiga toko berurutan dengan partnermu ikut serta, dengan tetap mempertahankan minimal satu bintang sepanjang waktu — jangan sampai wanted level hilang di antara perampokan. Rencanakan rute pendek di antara tiga toko yang berdekatan dan jaga mobil kabur tetap dekat. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Temukan 100 kendaraan.",
+   "grade": "bronze",
+   "kind": "collectible",
+   "hidden": false,
+   "missable": false,
+   "count": 100,
+   "roadmap_stage": 2,
+   "guide": "Temukan 100 kendaraan dengan memindainya lewat aplikasi WAiNK. Setiap model baru yang kamu arahkan aplikasinya dihitung; kendaraan lalu lintas, yang terparkir, dan kendaraan misi semuanya menambah. Checklist 100% meminta 200 yang dipindai, jadi teruslah memindai saat bepergian — kamu akan melewati sebagian besar tanpa berusaha. Sumber: daftar trofi GTA Zone; panduan 100% completion PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx100"
+   ]
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Kalahkan 5 musuh dalam sekali penggunaan Combat Focus.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "roadmap_stage": 3,
+   "guide": "Kalahkan 5 musuh dalam sekali penggunaan Combat Focus. Isi dulu meter Focus-mu, lalu aktifkan saat bertarung dengan sekelompok musuh — senapan serbu membuat lima takedown mudah dalam satu jendela Focus. Pilih baku tembak yang ramai daripada yang sepi, dan jangan buang jendelanya untuk berlindung. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Lakukan keberangkatan tak terjadwal di VCIA.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": true,
+   "missable": false,
+   "roadmap_stage": 3,
+   "guide": "Lakukan keberangkatan tak terjadwal di VCIA, bandara Vice City. Curi jet penumpang yang terparkir di gerbang boarding, lepas landas, dan menjauhlah sekitar 1 km dari bandara. Bersiaplah dengan wanted level langsung — jaraklah yang penting, jadi naik dan terbang lurus keluar daripada berputar-putar. Sumber: daftar trofi GTA Zone.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Agak panas di Rhino ini.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": true,
+   "missable": false,
+   "roadmap_stage": 3,
+   "guide": "Curi tank di Mile Zero Air Station dan habisi musuh dari dalamnya. Rhino adalah hadiahnya — masuklah, dan trofi mencatat kill yang kamu buat saat mengendarainya. Pangkalan itu dijaga, jadi dekati dengan rencana dan bersiap menghadapi respons besar begitu alarm berbunyi. Sumber: daftar trofi GTA Zone.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rampok toko perhiasan tanpa ketahuan.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "roadmap_stage": 3,
+   "guide": "Rampok toko perhiasan tanpa ketahuan. Pekerjaan Yasmani di Chapter 3 memberimu Snap Gun untuk pintu belakang — pakai untuk masuk diam-diam, kosongkan etalase, dan pergi tanpa memicu alarm atau terlihat. Kalau ketahuan, pergi dan coba toko lain; toko perhiasan juga dihitung untuk 34 Smash 'N' Grabs yang diminta checklist 100%. Sumber: daftar trofi GTA Zone.",
+   "sources": [
+    "gtazone",
+    "powerpyx100"
+   ]
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rampok 5 Bank Vault dan kabur.",
+   "grade": "silver",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "count": 5,
+   "roadmap_stage": 2,
+   "guide": "Rampok 5 Bank Vault dan kabur, dari 8 yang ada dalam game. Brankas terbuka lewat misi opsional Chapter 4, dan setiap pekerjaan brankas mendatangkan respons bintang 4, jadi siapkan motor cepat untuk kabur. Checklist 100% meminta semua 8 brankas, jadi trofi ini adalah tonggak di perjalanan — terus rampok melewati lima. Sumber: daftar trofi GTA Zone; panduan 100% completion PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx100"
+   ]
+  },
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rampok Truk Lapis Baja dan kabur.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "roadmap_stage": 3,
+   "guide": "Rampok Truk Lapis Baja dan kabur. Sergap truk di jalan, bobol, dan kabur dengan bersih. Pekerjaan brankas bank juga dihitung untuk trofi ini kalau kamu kabur, jadi bisa saja muncul saat kamu mengerjakan 'Maximum Withdrawal'. Sumber: daftar trofi GTA Zone.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Jelajahi seluruh Leonida.",
+   "grade": "bronze",
+   "kind": "collectible",
+   "hidden": false,
+   "missable": false,
+   "count": 52,
+   "roadmap_stage": 2,
+   "guide": "Jelajahi seluruh Leonida — bersihkan kabut dari seluruh peta, semua 52 area. Setiap wilayah dihitung, jadi pesawat adalah cara tercepat menyapu peta, dan kabut terangkat saat kamu terbang di atas tanah baru. Periksa peta untuk sisa bercak gelap dan terbangi area itu. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rampok Operasi Ilegal milik setiap geng.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "count": 9,
+   "roadmap_stage": 2,
+   "guide": "Rampok Operasi Ilegal milik masing-masing dari 9 geng — satu per geng. Operasi geng ditandai ikon kuning; jarah semua barang berharga utama di tiap tempat untuk membersihkannya, dan arahkan kursor ke ikon untuk melihat apa yang tersisa. Semua 39 operasi dibutuhkan untuk 100% completion, jadi trofi ini datang saat kamu mengerjakan itu. Sumber: daftar trofi GTA Zone; panduan 100% completion PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx100"
+   ]
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Nikmati koktail dengan pemandangan di Ocean Beach.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": true,
+   "missable": false,
+   "roadmap_stage": 3,
+   "guide": "Nikmati koktail dengan pemandangan di Ocean Beach. Pemicu pastinya belum terkonfirmasi — baik PowerPyx maupun GTABase belum memastikan caranya, jadi anggap rumor metode apa pun yang kamu baca online sampai dua panduan sepakat. Deskripsinya mengarah ke memesan minuman di bar dengan pemandangan Ocean Beach; coba bar-bar di tepi pantai dan perhatikan prompt-nya. Sumber: daftar trofi GTA Zone (mencantumkannya sebagai belum terkonfirmasi); panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Terobos keluar dari showroom kendaraan dengan gaya klasik.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": true,
+   "missable": false,
+   "roadmap_stage": 3,
+   "guide": "Terobos keluar dari showroom kendaraan dengan gaya klasik. Belum terkonfirmasi: deskripsinya mengarah ke mengemudi keluar menembus jendela showroom, tapi belum ada panduan yang memverifikasi langkah pastinya. Coba showroom di Vice City — kemudikan mobil lurus keluar menembus kaca — dan anggap rumor metode detail apa pun yang beredar online. Sumber: daftar trofi GTA Zone (mencantumkannya sebagai belum terkonfirmasi); panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through di bowling alley Kolt & Associates.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": true,
+   "missable": false,
+   "roadmap_stage": 3,
+   "guide": "Follow-through di bowling alley Kolt & Associates. Rampok operasi geng Kingpin Bowling di Port Gellhorn, lalu lepas dari polisi. Operasi itu adalah target perampokan geng, jadi juga dihitung untuk 'Pest Control' dan 39 operasi untuk 100%. Sumber: daftar trofi GTA Zone.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "Kemitraan dengan daya tarik massal.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": true,
+   "missable": false,
+   "roadmap_stage": 3,
+   "guide": "Kemitraan dengan daya tarik massal. Maksimalkan Strength untuk Jason dan Lucia — berolahraga bersama melatih keduanya sekaligus. Sesi gym membangun Strength seiring waktu, jadi selipkan latihan ke rutinitas di antara misi daripada mengebut semuanya di akhir. Sumber: daftar trofi GTA Zone.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Pilihan yang dibuat (baik atau buruk).",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": true,
+   "missable": false,
+   "count": 500,
+   "roadmap_stage": 3,
+   "guide": "Pilihan yang dibuat (baik atau buruk). Lakukan 500 aksi yang mengubah Criminal Profile-mu — game menghitung pilihan moral kecil yang kamu buat selama bermain, dan totalnya bertambah secara alami selama satu playthrough penuh. Jangan sengaja mendorong ke profil Irredeemable: itu permanen. Sumber: daftar trofi GTA Zone.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Percobaan kedua adalah yang berhasil.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": true,
+   "missable": false,
+   "roadmap_stage": 3,
+   "guide": "Percobaan kedua adalah yang berhasil. Pemicu pastinya belum terkonfirmasi — baik PowerPyx maupun GTABase belum memastikan caranya. Deskripsinya mengisyaratkan berhasil pada percobaan kedua atas sesuatu, tapi sampai ada panduan yang memverifikasi, anggap rumor metode apa pun yang diklaim. Sumber: daftar trofi GTA Zone (mencantumkannya sebagai belum terkonfirmasi); panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "Apa yang baru saja terjadi?",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": true,
+   "missable": false,
+   "roadmap_stage": 3,
+   "guide": "Apa yang baru saja terjadi? Pemicu pastinya belum terkonfirmasi — deskripsinya terdengar seperti pertemuan aneh atau easter egg, tapi belum ada panduan yang memverifikasi di mana atau bagaimana itu muncul. Jelajahi sudut-sudut aneh Leonida dan waspadai apa pun yang janggal; anggap rumor klaim online sampai dua panduan sepakat. Sumber: daftar trofi GTA Zone (mencantumkannya sebagai belum terkonfirmasi); panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Jatuhkan mereka dengan melee drive-by.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": true,
+   "missable": false,
+   "roadmap_stage": 3,
+   "guide": "Jatuhkan mereka dengan melee drive-by. Metode pastinya masih dalam konfirmasi — namanya mengarah ke menjatuhkan seseorang dengan serangan melee dari kendaraan yang bergerak. Coba drive-by pelan dengan senjata melee dan anggap rumor resep persis apa pun yang beredar online. Sumber: daftar trofi GTA Zone (mencantumkannya sebagai belum terkonfirmasi); panduan trofi KeenGamer, yang mencatat metode persisnya masih dalam konfirmasi.",
+   "sources": [
+    "gtazone",
+    "keengamer"
+   ]
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Hasilkan $250.000 dengan mencuci Marked Bills lewat kontakmu.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "roadmap_stage": 2,
+   "guide": "Hasilkan $250.000 dengan mencuci Marked Bills lewat kontakmu. Marked bills berasal dari bank dan toko pinjaman payday; tukarkan ke kontakmu dan total berjalan terus bertambah — satu bank besar bisa membayar sampai $205.000. Yasmani membayar paling besar, jadi utamakan fence-nya. $250.000 yang sama adalah item checklist 100%. Sumber: daftar trofi GTA Zone; panduan 100% completion PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx100"
+   ]
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Belanjakan $100.000 di semua toko.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "roadmap_stage": 2,
+   "guide": "Belanjakan $100.000 di semua toko. Ini total berjalan — pakaian, senjata, makanan, mod mobil, dan semua yang kamu beli dihitung. Kamu kemungkinan besar melewatinya secara alami saat menyiapkan perlengkapan untuk checklist 100%, jadi tidak perlu sengaja mengejarnya. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Beli semua properti garasi.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "count": 8,
+   "roadmap_stage": 2,
+   "guide": "Beli semua properti garasi — 8 garasi yang dijual, total sekitar $160.000. 4 garasi cerita tidak dihitung, jadi hanya yang dijual di pasaran yang penting. Beli begitu uang memungkinkan; garasi itu juga memberimu ruang yang dibutuhkan trofi 'On the Spot' untuk registrasi kendaraan. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Daftarkan 10 kendaraan ke aplikasi Scooter Bros.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "count": 10,
+   "roadmap_stage": 2,
+   "guide": "Daftarkan 10 kendaraan ke aplikasi Scooter Bros, yang diberikan Moses di Chapter 2. Kamu butuh slot garasi kosong untuk setiap registrasi, jadi jaga slot tetap terbuka — garasi dari 'Little Boxes' membantu. Daftarkan campuran mobil yang kamu temukan di Leonida; masing-masing hanya perlu didaftarkan sekali. Sumber: daftar trofi GTA Zone; panduan trofi PowerPyx.",
+   "sources": [
+    "gtazone",
+    "powerpyx"
+   ]
+  }
+ ]
+}
